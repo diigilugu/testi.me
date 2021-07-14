@@ -1,0 +1,38 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport"
+          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+</head>
+<body>
+
+
+<h1>Just Seconds</h1>
+<div>
+    The time is now: <span class="now"></span>, a timer will go off <span class="duration"></span> at <span class="then"></span>
+</div>
+<div>The timer is set to go off <span class="difference"></span></div>
+<div class="countdown"></div>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.13.0/moment.min.js" type="text/javascript"></script>
+<script src="https://cdn.rawgit.com/mckamey/countdownjs/master/countdown.min.js" type="text/javascript"></script>
+<script src="https://code.jquery.com/jquery-3.0.0.min.js" type="text/javascript"></script>
+<script>
+    var now = moment("2021-07-12"); // new Date().getTime();
+    var then = moment().add(60, 'seconds'); // new Date(now + 60 * 1000);
+
+    $(".now").text(moment(now).format('h:mm:ss a'));
+    $(".then").text(moment(then).format('h:mm:ss a'));
+    $(".duration").text(moment(now).to(then));
+    (function timerLoop() {
+        $(".difference").text(moment(then).to(now));
+        $(".countdown").text(countdown(now).toString());
+        requestAnimationFrame(timerLoop);
+    })();
+</script>
+
+</body>
+</html>

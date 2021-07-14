@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="53" height="39" viewBox="0 0 53 39">
+  <defs>
+    <filter id="Rectangle_233" x="0" y="0" width="53" height="39" filterUnits="userSpaceOnUse">
+      <feOffset dx="5" dy="5" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-color="#1f2459" flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-path">
+      <path id="Path_3061" data-name="Path 3061" d="M0,0H35V21H0Z" transform="translate(0.198 0.119)" fill="#3a4d8b"/>
+    </clipPath>
+    <filter id="Rectangle_228" x="0" y="0" width="53" height="41" filterUnits="userSpaceOnUse">
+      <feOffset dx="5" dy="5" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-2"/>
+      <feFlood flood-opacity="0.255"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_2454" data-name="Group 2454" transform="translate(-171 -820)">
+    <g transform="matrix(1, 0, 0, 1, 171, 820)" filter="url(#Rectangle_233)">
+      <rect id="Rectangle_233-2" data-name="Rectangle 233" width="35" height="21" transform="translate(4 4)" fill="#fff"/>
+    </g>
+    <g id="Mask_Group_142" data-name="Mask Group 142" transform="translate(174.802 823.881)" clip-path="url(#clip-path)">
+      <g id="Group_1860" data-name="Group 1860" transform="translate(-2.832 -2.832)">
+        <g transform="matrix(1, 0, 0, 1, -0.97, -1.05)" filter="url(#Rectangle_228)">
+          <g id="Rectangle_228-2" data-name="Rectangle 228" transform="translate(4 4)" fill="#3a4d8b" stroke="#3a4d8b" stroke-width="1">
+            <rect width="35" height="23" stroke="none"/>
+            <rect x="0.5" y="0.5" width="34" height="22" fill="none"/>
+          </g>
+        </g>
+        <g id="Rectangle_230" data-name="Rectangle 230" transform="matrix(0.848, -0.53, 0.53, 0.848, 1.024, 24.404)" fill="#d83f39" stroke="#fff" stroke-width="1">
+          <rect width="44.492" height="2.836" stroke="none"/>
+          <rect x="0.5" y="0.5" width="43.492" height="1.836" fill="none"/>
+        </g>
+        <g id="Rectangle_231" data-name="Rectangle 231" transform="matrix(-0.848, -0.53, 0.53, -0.848, 38.033, 26.838)" fill="#d83f39" stroke="#fff" stroke-width="1">
+          <rect width="44.437" height="2.836" stroke="none"/>
+          <rect x="0.5" y="0.5" width="43.437" height="1.836" fill="none"/>
+        </g>
+        <g id="Union_25" data-name="Union 25" transform="translate(0.03 -0.05)" fill="#d83f39">
+          <path d="M 21.4520092010498 26.5 L 16.59822082519531 26.5 L 16.59822082519531 16.39434814453125 L 16.59822082519531 15.89434909820557 L 16.09822082519531 15.89434909820557 L 0.5 15.89434909820557 L 0.5 11.10811901092529 L 16.09822082519531 11.10811901092529 L 16.59822082519531 11.10811901092529 L 16.59822082519531 10.60811901092529 L 16.59822082519531 0.4999990463256836 L 21.4520092010498 0.4999990463256836 L 21.4520092010498 10.60811901092529 L 21.4520092010498 11.10811901092529 L 21.9520092010498 11.10811901092529 L 39.5 11.10811901092529 L 39.5 15.89434909820557 L 21.9520092010498 15.89434909820557 L 21.4520092010498 15.89434909820557 L 21.4520092010498 16.39434814453125 L 21.4520092010498 26.5 Z" stroke="none"/>
+          <path d="M 20.9520092010498 26 L 20.9520092010498 16.39434814453125 L 20.9520092010498 15.39434909820557 L 21.9520092010498 15.39434909820557 L 39 15.39434909820557 L 39 11.60811901092529 L 21.9520092010498 11.60811901092529 L 20.9520092010498 11.60811901092529 L 20.9520092010498 10.60811901092529 L 20.9520092010498 0.9999990463256836 L 17.09822082519531 0.9999990463256836 L 17.09822082519531 10.60811901092529 L 17.09822082519531 11.60811901092529 L 16.09822082519531 11.60811901092529 L 1 11.60811901092529 L 1 15.39434909820557 L 16.09822082519531 15.39434909820557 L 17.09822082519531 15.39434909820557 L 17.09822082519531 16.39434814453125 L 17.09822082519531 26 L 20.9520092010498 26 M 21.9520092010498 27 L 16.09822082519531 27 L 16.09822082519531 16.39434814453125 L 0 16.39434814453125 L 0 10.60811901092529 L 16.09822082519531 10.60811901092529 L 16.09822082519531 -9.5367431640625e-07 L 21.9520092010498 -9.5367431640625e-07 L 21.9520092010498 10.60811901092529 L 40 10.60811901092529 L 40 16.39434814453125 L 21.9520092010498 16.39434814453125 L 21.9520092010498 27 Z" stroke="none" fill="#fff"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
