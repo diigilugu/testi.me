@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0738835f-4c25-437b-a067-e4f032cea5df" name="Default Changelist" comment="">
+    <list default="true" id="0738835f-4c25-437b-a067-e4f032cea5df" name="Default Changelist" comment="date">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testi-est.html" beforeDir="false" afterPath="$PROJECT_DIR$/testi-est.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testi-rus.html" beforeDir="false" afterPath="$PROJECT_DIR$/testi-rus.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,8 +44,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1626255989851</updated>
-      <workItem from="1626255991086" duration="9497000" />
+      <workItem from="1626255991086" duration="9595000" />
     </task>
+    <task id="LOCAL-00001" summary="date">
+      <created>1626265597034</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1626265597034</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -60,5 +69,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="date" />
+    <option name="LAST_COMMIT_MESSAGE" value="date" />
   </component>
 </project>
