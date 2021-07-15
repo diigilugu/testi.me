@@ -365,6 +365,14 @@
         position: relative;
         left: .2rem
     }
+    .count__container{
+        display: flex;
+        margin-right: 5px;
+    }
+
+    #counter-label{
+        display: flex;
+    }
 
     @media screen and (min-width: 1000px) {
         .error-body[_ngcontent-vvs-c45] {
@@ -477,8 +485,11 @@
                                                                 </div>
                                                             </div>
                                                             <div _ngcontent-vvs-c45="" id="counter">
-                                                                <div _ngcontent-vvs-c45="" id="counter-label"
-                                                                     class="smaller-spacing">Время после теста
+                                                                <div _ngcontent-flx-c45="" id="counter-label">
+                                                                    <div class="count__container"><div id="day"> </div> д </div>
+                                                                    <div class="count__container"><div id="hour"> </div> ч </div>
+                                                                    <div class="count__container"><div id="minute"> </div> м </div>
+                                                                    <div class="count__container"><div id="second"> </div> с </div>
                                                                 </div>
                                                                 <div _ngcontent-vvs-c45="" id="counter-value">
                                                                 </div>
@@ -514,10 +525,6 @@
         </div>
     </div>
 </div>
-
-<script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.13.0/moment.min.js" type="text/javascript"></script>
-<script src="https://cdn.rawgit.com/mckamey/countdownjs/master/countdown.min.js" type="text/javascript"></script>
-<script src="https://code.jquery.com/jquery-3.0.0.min.js" type="text/javascript"></script>
 
 <script src="script.js"></script>
 </body>

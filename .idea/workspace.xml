@@ -1,10 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0738835f-4c25-437b-a067-e4f032cea5df" name="Default Changelist" comment="date changed">
-      <change afterPath="$PROJECT_DIR$/script.js" afterDir="false" />
+    <list default="true" id="0738835f-4c25-437b-a067-e4f032cea5df" name="Default Changelist" comment="fix changed">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/countdown.min.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/moment-countdown.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/moment.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/script.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/testi-est.html" beforeDir="false" afterPath="$PROJECT_DIR$/testi-est.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/testi-rus.html" beforeDir="false" afterPath="$PROJECT_DIR$/testi-rus.html" afterDir="false" />
     </list>
@@ -55,7 +58,9 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1626255989851</updated>
-      <workItem from="1626255991086" duration="10164000" />
+      <workItem from="1626255991086" duration="10422000" />
+      <workItem from="1626328997424" duration="599000" />
+      <workItem from="1626333488219" duration="2567000" />
     </task>
     <task id="LOCAL-00001" summary="date">
       <created>1626265597034</created>
@@ -78,7 +83,14 @@
       <option name="project" value="LOCAL" />
       <updated>1626265875675</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="fix changed">
+      <created>1626266316097</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1626266316097</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -94,10 +106,12 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="date" />
     <MESSAGE value="date changed" />
-    <option name="LAST_COMMIT_MESSAGE" value="date changed" />
+    <MESSAGE value="fix changed" />
+    <option name="LAST_COMMIT_MESSAGE" value="fix changed" />
   </component>
 </project>
