@@ -20,3 +20,6 @@ const countdown = () => {
 }
 
 setInterval(countdown, 1000)
+
+let card = document.querySelector('#result');
+// card.style.width = 100 + '%'
