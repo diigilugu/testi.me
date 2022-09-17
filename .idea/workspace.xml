@@ -1,12 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0738835f-4c25-437b-a067-e4f032cea5df" name="Default Changelist" comment="26.08.2022">
+    <list default="true" id="0738835f-4c25-437b-a067-e4f032cea5df" name="Default Changelist" comment="02.09.2022">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/script.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testi-est.html" beforeDir="false" afterPath="$PROJECT_DIR$/testi-est.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testi-rus.html" beforeDir="false" afterPath="$PROJECT_DIR$/testi-rus.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -85,7 +81,8 @@
       <workItem from="1659022439552" duration="375000" />
       <workItem from="1660928405451" duration="54000" />
       <workItem from="1661524715753" duration="169000" />
-      <workItem from="1662140611896" duration="60000" />
+      <workItem from="1662140611896" duration="99000" />
+      <workItem from="1662491382292" duration="1000" />
     </task>
     <task id="LOCAL-00001" summary="date">
       <created>1626265597034</created>
@@ -241,7 +238,14 @@
       <option name="project" value="LOCAL" />
       <updated>1661524792548</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="02.09.2022">
+      <created>1662140689758</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1662140689758</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -275,6 +279,7 @@
     <MESSAGE value="28.07.2022" />
     <MESSAGE value="19.08.2022" />
     <MESSAGE value="26.08.2022" />
-    <option name="LAST_COMMIT_MESSAGE" value="26.08.2022" />
+    <MESSAGE value="02.09.2022" />
+    <option name="LAST_COMMIT_MESSAGE" value="02.09.2022" />
   </component>
 </project>
